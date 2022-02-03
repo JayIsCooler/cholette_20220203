@@ -20,3 +20,12 @@ Mes passe-temps sont variés. J'aime bien jouer aux jeux vidéo tels que league 
 ![photo](medias/image3.png)
 
 
+
+Voici quelques un des projets que j'ai effectuer la session dernière
+
+
+[photo](medias/dessin1.png)
+[photo](medias/dessin2.png)
+[photo](medias/dessin3.png)
+[photo](medias/dessin4.png)
+[photo](medias/dessin5.png)
